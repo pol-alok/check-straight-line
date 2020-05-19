@@ -4,7 +4,7 @@ Program takes list of the 2-D coordinates and check weather it is straight line 
 
 ### Prerequisites
 
-Your machine must have C++14 or later installed on it.\
+Your machine must have C++14 or later installed on it.
 
 To check weather it is installed or not or check version refer to
 
@@ -68,12 +68,12 @@ To run the program run command
  > ./sourcefile_name
 ```
 
-### And coding style tests
+### And some example with test cases
 
 Example 1 :
 
 ```
-Please the no of points : 2
+Please enter the no of points : 2
 Please Enter the X coordinate followed by Y coordinate separated by space
 Enter first coordinate : 3 5
 Enter second coordinate : 6 9
